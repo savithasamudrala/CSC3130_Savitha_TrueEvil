@@ -63,7 +63,7 @@ public class CurrencyConverter {
             }
         }
 
-        return 0;  // or throw an exception if no path is found
+        return 0;  
     }
 
     public static void main(String[] args) {
